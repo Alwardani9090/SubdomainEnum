@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"github.com/abdulrahmanalwardani/subdomainenum/internal/log"
-	"github.com/abdulrahmanalwardani/subdomainenum/internal/runner"
+	"github.com/Alwardani9090/SubdomainEnum/internal/log"
+	"github.com/Alwardani9090/SubdomainEnum/internal/runner"
 )
 
 var options = &runner.Options{}
