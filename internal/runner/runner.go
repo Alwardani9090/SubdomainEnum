@@ -6,14 +6,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/abdulrahmanalwardani/subdomainenum/internal/progress"
-	"github.com/abdulrahmanalwardani/subdomainenum/internal/log"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/active/alterx"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/active/bruteforce"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/active/permutation"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/scraper"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/scraper/sources"
-	"github.com/abdulrahmanalwardani/subdomainenum/pkg/utils"
+	"github.com/Alwardani9090/SubdomainEnum/internal/progress"
+	"github.com/Alwardani9090/SubdomainEnum/internal/log"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/active/alterx"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/active/bruteforce"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/active/permutation"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/scraper"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/scraper/sources"
+	"github.com/Alwardani9090/SubdomainEnum/pkg/utils"
 )
 
 type sourceResult struct {
