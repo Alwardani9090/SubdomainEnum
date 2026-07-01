@@ -1,4 +1,4 @@
-module github.com/Alwardani9090/SubdomainEnum/
+module github.com/Alwardani9090/SubdomainEnum
 
 go 1.22
 
