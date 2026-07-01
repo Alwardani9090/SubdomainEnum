@@ -2,7 +2,7 @@ package scraper
 
 import (
 	"crypto/tls"
-	"github.com/abdulrahmanalwardani/subdomainenum/internal/config"
+	"github.com/Alwardani9090/SubdomainEnum/internal/config"
 	"net/http"
 	"time"
 )
