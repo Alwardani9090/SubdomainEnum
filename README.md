@@ -21,7 +21,7 @@ A fast subdomain enumeration tool written in Go. It combines **passive** sources
 ## Install
 
 ```bash
-git clone https://github.com/abdulrahmanalwardani/subdomainenum.git
+git clone https://github.com/Alwardani9090/SubdomainEnum.git
 cd subdomainenum
 go build -o subdomainenum ./cmd/subdomainenum
 ```
