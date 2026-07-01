@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	dnsclient "github.com/abdulrahmanalwardani/subdomainenum/internal/dnsclient"
+	dnsclient "github.com/Alwardani9090/SubdomainEnum/internal/dnsclient"
 	"github.com/miekg/dns"
 )
 
