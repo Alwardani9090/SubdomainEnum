@@ -1,0 +1,21 @@
+# Build output
+/subdomainenum
+/dist/
+*.exe
+
+# Go
+*.test
+*.out
+vendor/
+
+# Local config (contains your API keys — never commit this)
+config.yaml
+*.local.yaml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
